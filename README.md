@@ -51,4 +51,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador. <img width="25" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" /></p>
 
 ---
-<p align="center">Feito com 💖 por Paulo Barboza</p>
+<p align="center">Feito com 💖 por Paulo de Tarso</p>
